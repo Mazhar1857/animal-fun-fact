@@ -1,0 +1,24 @@
+.dolphin {
+    position: relative;
+    top: 30vh;
+    left: 0vw;
+    /* width: 100vw; */
+    /* border: 2px solid yellow; */
+}
+
+.lobster {
+    position: relative;
+    top: 30vh;
+    left: 30vw;
+    /* width: 100vw; */
+    /* border: 2px solid yellow; */
+}
+
+.starfish {
+    position: relative;
+    top: 30vh;
+    left: 66vw;
+    width: 33.3vw;
+    /* border: 2px solid yellow; */
+    justify-self: flex-end;
+}

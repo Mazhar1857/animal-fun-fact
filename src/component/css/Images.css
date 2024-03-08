@@ -1,0 +1,12 @@
+.animals {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.animal {
+    width: 23.3%;
+    object-fit: contain;
+    padding-top: 0;
+    /* border: 2px solid red; */
+}

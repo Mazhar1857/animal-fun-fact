@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* .main {
+    position: relative;
+} */
+
+
+.bg {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+
+}
+
+.title {
+    position: relative;
+    z-index: 10;
+    margin: 10px;
+    margin-bottom: 30vh;
+    /* border: 2px dotted black; */
+}
+
+.images {
+    position: relative;
+    z-index: 10;
+    /* border: 2px dotted black; */
+    margin: 0 10px 10px 10px;
+}
+
+.facts-app {
+    position: absolute;
+    top: 0;
+    z-index: 20;
+}
